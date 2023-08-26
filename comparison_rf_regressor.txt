@@ -1,0 +1,60 @@
+For the 3 features the mse is: 1.3232833197493163
+Compare to 36 features mse it is: 
+-0.00047167832074412885
+
+For the 4 features the mse is: 1.3051850356373997
+Compare to 36 features mse it is: 
+0.01762660579117248
+
+For the 5 features the mse is: 1.298113164491251
+Compare to 36 features mse it is: 
+0.0246984769373213
+
+For the 6 features the mse is: 1.2904763938656119
+Compare to 36 features mse it is: 
+0.032335247562960356
+
+For the 7 features the mse is: 1.2957372839214958
+Compare to 36 features mse it is: 
+0.02707435750707643
+
+For the 8 features the mse is: 1.2931134855761022
+Compare to 36 features mse it is: 
+0.029698155852470043
+
+For the 9 features the mse is: 1.2759689877041953
+Compare to 36 features mse it is: 
+0.046842653724376904
+
+For the 10 features the mse is: 1.259769443442859
+Compare to 36 features mse it is: 
+0.0630421979857132
+
+For the 11 features the mse is: 1.2653002922205046
+Compare to 36 features mse it is: 
+0.057511349208067664
+
+For the 12 features the mse is: 1.2668566150911331
+Compare to 36 features mse it is: 
+0.055955026337439095
+
+For the 13 features the mse is: 1.2649549090513448
+Compare to 36 features mse it is: 
+0.05785673237722744
+
+For the 14 features the mse is: 1.2578054338758653
+Compare to 36 features mse it is: 
+0.06500620755270692
+
+For the 15 features the mse is: 1.2538346443858437
+Compare to 36 features mse it is: 
+0.06897699704272853
+
+For the 16 features the mse is: 1.2541572260381566
+Compare to 36 features mse it is: 
+0.06865441539041561
+
+For the 17 features the mse is: 1.2631009391884616
+Compare to 36 features mse it is: 
+0.05971070224011066
+
